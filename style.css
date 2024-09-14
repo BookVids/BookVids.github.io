@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans;
+    padding: 20px;
+}
+
+input, button {
+    padding: px;
+    margin: 5px;
+}
+
+#results img {
+    max-width: 200px;
+    margin: 10px;
+}
